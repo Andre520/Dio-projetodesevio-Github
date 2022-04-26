@@ -1,7 +1,8 @@
 # Dio-projetodesafio-Git-Github- Repositório
 
-Repositório Criado para Dio-desafio  Git/Github  criando repositórios
-<!-- Inscrição  Dio https://www.dio.me/ -->
+Repositório Criado para Dio-desafio  Git/Github  criando repositório
+
+Inscrição  Dio https://www.dio.me/ 
 Aulas de Introdução e Iniciante
 Certificações e aprovações  
 Baixando Git para sua maquina neste link: https://git-scm.com/downloads
